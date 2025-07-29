@@ -1,7 +1,7 @@
 
 # 📈 Análisis de Evasión de Clientes (Churn) en una Empresa de Telecomunicaciones
 
-Este proyecto tiene como objetivo identificar patrones en la evasión de clientes (churn) mediante análisis de datos, limpieza, visualización y generación de insights prácticos. Se desarrolla en un **cuaderno de Google Colab** que acompaña este repositorio.
+Este proyecto tiene como objetivo identificar patrones en la evasión de clientes (churn) mediante análisis de datos, limpieza, visualización y generación de insights. Se desarrolla en un **cuaderno de Google Colab** que acompaña este repositorio.
 
 ---
 
@@ -30,8 +30,7 @@ Este proyecto tiene como objetivo identificar patrones en la evasión de cliente
 .
 ├── README.md              # Documento actual
 ├── telecom_churn.ipynb    # Cuaderno con análisis completo
-├── data_telecom_x.csv     # Dataset base utilizado
-├── visualizaciones/       # Carpeta con los gráficos generados (opcional)
+├── data_telecom_x     # Dataset base utilizado
 ```
 
 ---
@@ -61,28 +60,9 @@ Este proyecto tiene como objetivo identificar patrones en la evasión de cliente
 - Fortalecer la atención en servicios como soporte y streaming
 - Campañas personalizadas basadas en métricas predictivas
 
----
-
-## 📁 Cómo usar este repositorio
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   ```
-2. Abre el archivo `telecom_churn.ipynb` con Google Colab o Jupyter.
-3. Asegúrate de subir el archivo `data_telecom_x.csv` si trabajas localmente.
-4. Ejecuta cada celda para replicar el análisis y visualizar los resultados.
-
----
 
 ## 🤝 Autor
 
 **Paulosky 314**  
-Diseñador gráfico y publicista enfocado en la visualización de datos e inteligencia de negocio.  
-Colaboración con ChatGPT (Bonnot) para asistencias técnicas y estructurales.
+Publicista y diseñador gráfico enfocado en la visualización de datos e inteligencia de negocio.
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
